@@ -1,1 +1,1 @@
-worker: python maximoPark.by maximoPark.txt
+worker: python maximoPark.py maximoPark.txt
