@@ -1,0 +1,1 @@
+worker: python maximoPark.by maximoPark.txt
